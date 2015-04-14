@@ -9,4 +9,5 @@ int main()
 	cout << ":\n" << q;
 	system(("pause"));
 	return 0;
+	45;
 }
